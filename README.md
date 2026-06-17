@@ -51,6 +51,4 @@ Perform a Clean and Build.
 
 Run the project on Apache Tomcat Server.
 
-Screenshots 
-(Add screenshots of your system's dashboard and key features here)
 
