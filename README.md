@@ -2,7 +2,6 @@
 
 # Smart Inventory System 📦
 
-## Overview
 
 The Smart Inventory System is a robust web-based solution designed to automate and optimize inventory management for businesses. This system enables real-time stock tracking, automated reporting, and efficient data analysis to ensure seamless business operations.
 
